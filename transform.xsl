@@ -353,8 +353,8 @@
            <xsl:attribute name="align">
             <xsl:text>center</xsl:text>
          </xsl:attribute>
-         <xsl:value-of select="."/>
 </xsl:if>
+           <xsl:value-of select="."/>
          </artwork>
        </figure>
     </xsl:template>
